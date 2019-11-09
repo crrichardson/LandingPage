@@ -1,0 +1,32 @@
+body {
+    background-image: linear-gradient(to bottom, #97D9E1, #D9AFD9);
+    font-family: helvetica;
+}
+
+#nav-bar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#nav-bar a {
+  display: inline-block;
+  width: 30%;
+  text-align: center;
+  height: 30px;
+}
+
+#video {
+  display: block;
+  margin: 0 auto;
+}
+
+#aboutus {
+  display: block;
+  text-align: center;
+}
+
+#subscribe {
+  display: block;
+  text-align: center;
+}
